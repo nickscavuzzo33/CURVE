@@ -1,0 +1,14 @@
+Field-name: DEATHCAUSECODE,
+Code,Definition
+C00-C14,"lip, oral cavity and pharynx tumors"
+C15-C26,Digestive organ tumors
+C30-C39,Respirartory and intrathoracic organs tumors
+C40-C41,Bone and articular cartilage tumors
+C43-C44,Melanoma and other skin tumors
+C45-C49,Mesothelial and soft tissue tumors
+C50-C50,Breats tumors
+C51-C58,Female genital organ tumors
+C60-C63,Male genital organ tumors
+C64-C68,Urinary tract tumors
+C69-C72,"Eye, brain, and other CNS tumors"
+C73-C75,Thyroid and other endocrine gland tumors
